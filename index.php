@@ -1,6 +1,5 @@
 <?php
-$sede = $_GET['sede'] ?? 'Desconocida';
-$piso = $_GET['piso'] ?? 'N/A';
+
 
 // Datos de ejemplo - luego los cargas de BD o CSV
 $equipos = [
